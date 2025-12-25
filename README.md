@@ -1,6 +1,6 @@
-# gen-chords
+# music-anki
 
-`gen-chords` is a collection of Python programs that
+`music-anki` is a collection of Python programs that
 1. Generate PNG images of musical chords based on specified parameters such as clef type, root note range, and chord intervals.
 2. Produce an [Anki](https://apps.ankiweb.net/) package for spaced repetition.
 
